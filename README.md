@@ -1,5 +1,7 @@
 # Mon premier projet
 
+Calcul de la moyenne de valeurs dans un vecteur
+
 ## Compilation
 
 ```
